@@ -25,8 +25,6 @@ A modern, sleek, and intuitive **Notes App** built with **React**, **Bootstrap**
 
 ---
 
----
-
 ## 🔗 API Integration
 
 - **Fetch all notes:** `GET /notes`  
